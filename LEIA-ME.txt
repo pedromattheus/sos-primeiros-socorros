@@ -1,0 +1,27 @@
+SOS — GUIA DE PRIMEIROS SOCORROS (PROTÓTIPO)
+
+Este pacote contém uma primeira versão de um PWA:
+- Interface adaptável a celular.
+- Busca por situações.
+- Orientações iniciais para 8 temas.
+- Atalhos para ligar 192 e 193.
+- Cache para funcionamento offline após a primeira abertura.
+
+IMPORTANTE — USO RESPONSÁVEL
+Este é um protótipo educativo, não um protocolo clínico validado. O conteúdo deve passar por revisão técnica de profissionais habilitados e atualização conforme diretrizes atuais antes de ser divulgado ou utilizado como referência operacional. Em emergência, ligue para o serviço competente e siga a orientação da central. O app não substitui treinamento prático.
+
+COMO PUBLICAR GRATUITAMENTE
+1. Crie uma conta no GitHub.
+2. Crie um repositório público e envie todos os arquivos desta pasta.
+3. Nas configurações do repositório, abra Pages e escolha Deploy from a branch / main / root.
+4. Aguarde a publicação. O GitHub Pages fornece endereço HTTPS.
+5. Abra o endereço no Chrome do Android, toque no menu e escolha "Instalar app" ou "Adicionar à tela inicial".
+6. Abra uma vez com internet para carregar os arquivos; depois, as telas principais ficam disponíveis offline.
+
+Observação: a instalação PWA requer hospedagem HTTPS. Abrir index.html diretamente como arquivo não habilita a instalação nem o service worker.
+
+FONTES INICIAIS
+Ministério da Saúde — SAMU 192:
+https://www.gov.br/saude/pt-br/composicao/saes/samu-192
+Ministério da Saúde — Noções de Primeiros Socorros:
+https://bvsms.saude.gov.br/bvs/publicacoes/nocoes_primeiros_socorros.pdf
